@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Agence de voyage</title>
+    <meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="Kenya.css" />
+	<link href='http://fonts.googleapis.com/css?family=Lobster|Magra' rel='stylesheet' type='text/css'/>
+    <style>
+    </style>
+  </head>
+  <body>
+
+	<header id="entete">
+	  <div  class="centrer">
+			<div id="titre">
+			    <h1>A la rencontre de l'Afrique</h1>
+				<section id="liens"> 
+					<a href="https://twitter.com/?lang=fr" ><img id="twitter" src="twitter.png" width="50"></img></a>
+					<a href="https://fr-fr.facebook.com/" ><img id="twitter" src="fb.png" width="50""></img></a>   
+					<a href="https://www.youtube.com/?hl=fr&gl=FR" ><img id="twitter" src="youtube.jpeg" width="50"></img></a> 
+				</section>
+				<a id="logo" href="accueil.html"> <img src="http://arona.ndiayerose.free.fr/iso_album/logo-afrique_en_or_150x150.jpg" width="100"></img></a>
+			</div>
+        <div id="menu">
+		<dl>          
+	<dt id="accueil" ><a href="accueil.html">ACCUEIL</a></dt>
+        </dl>  
+	<dl>
+            <dt>QUI SOMMES-NOUS</dt>
+            <dd>
+              <ul>
+                <li><a href="information.html">Les Fondateurs</a></li>
+                <li><a href="google.fr">Contacts</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt id="avions">SÉJOURS</dt>
+            <dd>
+              <ul>
+                <li><a href="afriquedusud.html">Afrique du Sud</a> </li>
+                <li><a href="namibie.html">Namibie</a> </li>
+                <li><a href="Ouganda.html">Ouganda</a> </li>
+                <li><a href="Capvert.html">Cap Vert</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt id="valise">PÉRIPLES</dt>
+            <dd>
+              <ul>
+                <li><a href="Madagascar.html">Madagascar</a></li>
+                <li><a href="Kenya.html">Kenya</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt>LIBRAIRIE</dt>
+            <dd>
+              <ul>
+                <li><a href="google.fr">Guides</a></li>
+                <li><a href="google.fr">Literature</a> </li>
+                <li><a href="google.fr">Rencontres</a> </li>
+                <li><a href="google.fr">Projets</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Découverte</dt>
+            <dd>
+              <ul>
+                <li><a href="google.fr">Cultures</a></li>
+                <li><a href="google.fr">Echanges</a> </li>
+                <li><a href="google.fr">Payasages</a> </li>
+                <li><a href="google.fr">liens informatifs</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt>TÉMOIGNAGES</dt>
+            <dd>
+              <ul>
+                <li><a href="google.fr">Photos</a></li>
+                <li><a href="google.fr">Commentaires</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          
+        </div>
+			<div id="illustration-haut">
+			  <img src="http://images.marmara.com/Marmara2009/GroupMaps/groupmap_26cc543f3cb13661.jpg" alt="éléphant_afrique"/>
+			</div>
+  	</div>
+	</header>
+
+<main id="principal">
+  <div id="principal-centre" class="centrer">
+	<h2 id="principal-titre">
+	  <span>Kenya</span>  Ce voyage, conçu pour les amoureux de nature et de faune sauvage, est concentré dans la vallée du Rift, autour des lacs Naïvasha et Nakuru, ou au coeur de la réserve de Masaï Mara qui foisonne d'animaux. Une aventure intense, un pur safari, avec un hébergement confortable en pleine nature pour un cocktail de détente et de découverte inédite !</h2>
+
+    <div id="boites">
+    	<section class="boite">
+    		<a><img src="http://p4.img.cctvpic.com/program/journal/20120627/images/1340776189012_1340776189012_r.jpg" height="70%" width="70%" alt="lac"/></a>
+			<p><span id="type-boite" >Vallée du rift</span> <br /> <span id="destination-boite" >Kenya</span> <br />3 jours</p>
+    		<p class="principal-ligne-bouton"><button class="gros-bouton"><a href="https://www.google.fr/">Réservation</a></button></p>
+    	</section>
+		
+    	<section class="boite">
+    		<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GnusAndZebrasInMaraMasai.jpg/280px-GnusAndZebrasInMaraMasai.jpg" height="70%" width="70% alt="Réserve"/></a>
+			<p><span id="type-boite" >Réserve de Masaï Mara</span> <br /> <span id="destination-boite" >Kenya</span> <br /> 4 jours</p>
+    		<p class="principal-ligne-bouton"><button class="gros-bouton"><a href="https://www.google.fr/">Réservation</a></button></p>
+    	</section>
+		
+	</div>
+  </div>
+</main>
+
+
+<footer id="bas-de-page">
+  <div id="bas-de-page-centre" class="centrer">
+	<a href="accueil.html">© A la rencontre de l'Afrique </a>	
+  </div>
+</footer>
+
+  </body>
+</html>
+

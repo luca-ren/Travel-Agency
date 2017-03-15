@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Agence de voyage</title>
+    <link rel="stylesheet" type="text/css" href="afriquedusud.css">
+    <link href="http://fonts.googleapis.com/css?family=Lobster%7CMagra" rel="stylesheet"
+
+      type="text/css">
+	  <body>
+		<section id="liens">	
+			<a href="https://twitter.com/?lang=fr" ><img id="twitter" src="twitter.png" ></img></a>
+			<a href="https://fr-fr.facebook.com/" ><img id="twitter" src="fb.png" ></img></a>	  
+			<a href="https://www.youtube.com/?hl=fr&gl=FR" ><img id="twitter" src="youtube.jpeg" ></img></a>	
+		</section>
+		<div id="logo">
+          <h1>A la rencontre de l'Afrique</h1>
+					<a href="accueil.html"><img id="logo" src="logo.jpg" alt="logo"></img></a>       
+				 </div>
+	  <div id="menu">
+		<dl>          
+	<dt id="accueil" >ACCUEIL</dt>
+        </dl>  
+	<dl>
+            <dt>qui sommes-nous</dt>
+            <dd>
+              <ul>
+                <li><a href="information.html">Les Fondateurs</a></li>
+                <li><a href="google.fr">Contacts</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt id="avions">SÉJOURS</dt>
+            <dd>
+              <ul>
+                <li><a href="afriquedusud.html">Afrique du Sud</a> </li>
+                <li><a href="namibie.html">Namibie</a> </li>
+                <li><a href="Ouganda.html">Ouganda</a> </li>
+                <li><a href="Capvert.html">Cap Vert</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt id="valise">PÉRIPLES</dt>
+            <dd>
+              <ul>
+                <li><a href="Madagascar.html">Madagascar</a></li>
+                <li><a href="Kenya.html">Kenya</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt>LIBRAIRIE</dt>
+            <dd>
+              <ul>
+                <li><a href="google.fr">Guides</a></li>
+                <li><a href="google.fr">Literature</a> </li>
+                <li><a href="google.fr">Rencontres</a> </li>
+                <li><a href="google.fr">Projets</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Découverte</dt>
+            <dd>
+              <ul>
+                <li><a href="google.fr">Cultures</a></li>
+                <li><a href="google.fr">Echanges</a> </li>
+                <li><a href="google.fr">Payasages</a> </li>
+                <li><a href="google.fr">liens informatifs</a> </li>
+              </ul>
+            </dd>
+          </dl>
+          <dl>
+            <dt>TÉMOIGNAGES</dt>
+            <dd>
+              <ul>
+                <li><a href="google.fr">Photos</a></li>
+                <li><a href="google.fr">Commentaires</a> </li>
+              </ul>
+            </dd>
+          </dl>
+        </div>
+	
+			<div id="illustration-haut">
+			  <img src="http://images.marmara.com/Marmara2009/GroupMaps/groupmap_26cc543f3cb13661.jpg" width="82%" height="85%" alt="éléphant_afrique"/>
+			</div>
+  	</div>
+			
+			 <h2><img id="drapeau" src="afriquedusud.png"> Afrique du Sud </img></h2>
+	</header>
+	<section>
+	 <img id="namibie" src="photo1.jpg" width="10%" height="10%" alt="logo"></img>   
+	  <p>Voyager en Afrique du Sud c'est découvrir des côtes de plages à l’infini, des montagnes aux versants abrupts, des réserves animalières exceptionnelles , des forêts endémiques, des zones désertiques, sans oublier de vieilles cités chargées d’Histoire.
+L'Afrique du Sud donne aux voyageurs un goût d’inattendu.</p>
+	</section>
+	  <div id="boites">
+		<section class="boite">		
+		<a href=""><img id="reservation" src ="plage.jpg" alt="aa"></a>
+		
+		 <p id="reservation">RESERVEZ VITE !<br>Cap Town<br> 10 jours 2 personnes<br>2000 euros<br><class="principal-ligne-bouton"><button class="gros-bouton">Voir les détails</button></p>
+		
+		</section>
+		<section>
+		<a href=""><img id ="reservation2"src="riviere.jpg" alt="aa"></a>
+		 <p id="reservation3">RESERVEZ VITE !</br>Rivière <br> 15 jours 3 personnes<br>2500 euros<br><class="principal-ligne-bouton"><button class="gros-bouton">Voir les détails</button></p>
+		
+		</section>
+		<section>
+		<a href=""><img id ="reservation2"src="riviere2.jpg" alt="aa"></a>
+		 <p id="reservation3">RESERVEZ VITE !</br>Des Cascades majestueuses  <br> 20 jours 4 personnes<br>3000 euros<br><class="principal-ligne-bouton"><button class="gros-bouton">Voir les détails</button></p>
+		
+		</section>
+    
+	</div>
+	 
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  </div>
+	  	 
+<footer id="bas-de-page">
+  <div id="bas-de-page-centre" class="centrer">
+	<a href="Accueil.html">© A la rencontre de l'Afrique </a>	
+  </div>
+</footer>
+		
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  </head>
+	  </body>
+	  </html>

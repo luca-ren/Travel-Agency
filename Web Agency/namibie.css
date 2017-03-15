@@ -1,0 +1,184 @@
+#liens{
+	padding-right:5px;
+	float:right;
+}
+#twitter{
+width:30px;
+height:30px;
+}
+#logo {
+    padding-bottom: 20px;
+    padding-top: 10px;
+		padding-left:200px;
+		display:inline;
+		width:100px;
+		
+}
+#entete {
+    background-image: url("http://www.running-attitude.com/img/bdd/actu/originale/423.jpg");
+	background-size: cover;
+    color: #FFFFFF;
+	height:645px;
+}
+#logo h1 {
+    
+    font-family: 'Lobster',cursive;
+    font-size: 60px;
+    font-weight: normal;
+    margin: 0;
+}
+h1 {
+font-size:60px;
+font-weight:bold;
+text-align:center;
+color:#E0CDA9;
+font-family: Arial,Helvetica,sans-serif;
+
+}
+	div {
+		display:flex;
+		padding-left:150px;
+	}
+		
+#menu {
+    margin-bottom: 21px;
+}
+dl {
+	margin:0;
+	padding:0;
+	display:block;
+	float:left;
+	width:185px;
+	
+		
+}
+dd
+{
+	display:block;
+	margin:0;
+	padding:0;
+}
+#menu ul {
+	position: absolute;
+  background-color: #DAA520;
+    list-style: none ;
+	text-align:center;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+#menu li {
+	position: relative;
+    border-left: 1px solid #AD4F09;
+    border-right: 1px solid #AD4F09;
+}
+#menu li a {
+	background-color:#F88E55;
+    color: black;
+    display: block;
+    font-size: 12px;
+    padding: 17px 24px;
+    text-decoration: none;
+}
+dt {
+	background-color:#F88E55;
+    color: black;
+    display: block;
+    font-size: 12px;
+    padding: 17px 24px;
+    text-decoration: none;
+}
+#menu dt:hover {
+	   background-color:#F88E55;
+ 	   color: #FFFFFF;;
+}
+dl dd {
+	display:none;
+	
+}
+dl:hover dd{
+		display:block;
+		
+}
+ 
+
+
+#illustration-haut {
+    padding-left:145px;
+    /*padding: 20px 0;*/
+    text-align: center;
+	width:1600px;
+	height:400px;
+}
+h2{
+	padding-left:650px;
+	font-size:40px;
+	color:#DAA520;
+	
+}
+#namibie {
+	
+	
+	width:1300px;
+	height:400px;
+	padding-left:145px;
+	
+}
+#drapeau{
+	float:left;
+	padding-bottom:15px;
+}
+
+
+p {
+	color:black;
+font-family: arial;
+font-size:25px;
+text-align:center;
+
+}
+
+#reservation {
+	width:400px;
+	height:200px;
+	
+	}
+#reservation2{
+width:400px;
+height:200px;
+padding-left:50px;
+}
+#reservation3{
+padding-left:50px;
+}
+
+.principal-ligne-bouton {
+    margin-top: 0px;
+}
+.gros-bouton {
+   background:#DAA520; 
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 0 1px  inset, 0 2px 2px #AAAAAA;*/
+    color: yellow;
+    font-size: 17px;
+    padding: 10px 30px;
+	border-top:10px;
+
+	text-shadow: 0 -1px 1px #333333;
+	white-space: nowrap;
+}
+
+
+
+#bas-de-page {
+    background-image: url("http://i2.cdscdn.com/pdt2/3/0/1/1/300x300/dul3031520130301/rw/peinture-creme-de-couleur-2-5-l-grain-de-sable.jpg");
+}
+#bas-de-page-centre {
+    color: #555555;
+    padding: 40px;
+    text-align: center;
+}
+#bas-de-page a {
+    color: #555555;
+	padding-left:650px;
+	}	

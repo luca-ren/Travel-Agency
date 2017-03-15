@@ -1,0 +1,373 @@
+#entete {
+  
+    color: #FFFFFF;
+	background-image:url("http://fr.freepik.com/photos-libre/vieux-papier-beige_33619.htm");
+		
+}
+#entete-centre {
+    background-image: url("images/header-bg.jpg");
+    background-position: center top;
+    padding-bottom: 10px;
+	background-image:url("http://fr.freepik.com/photos-libre/vieux-papier-beige_33619.htm");
+}
+#logo {
+    padding-bottom: 28px;
+    padding-top: 10px;
+		padding-left:10px;
+		display:inline;
+		width:100px;
+		
+		
+}
+#logo h1 {
+    
+    font-family: 'Lobster',cursive;
+    font-size: 60px;
+    font-weight: normal;
+    margin: 0;
+}
+h1
+{
+	color:#DAA520;
+	padding-left:4em;
+	
+	
+	text-align:center;
+	
+}
+#liens{
+	padding-right:5px;
+	float:right;
+	
+}
+#twitter{
+width:30px;
+height:30px;
+}
+#barre1{
+	border:5px solid #DAA520;
+	height:35px;
+	border-radius: 5px 5px 5px 5px;
+		text-decoration:none;
+	}
+	#recherche{
+	padding-left:380px;
+	padding-bottom:50px;
+
+	
+}
+
+
+.principal-ligne-bouton {
+    margin-top: 0px;
+}
+.gros-bouton {
+   background:#DAA520; 
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 0 1px  inset, 0 2px 2px #AAAAAA;*/
+    color: yellow;
+    font-size: 17px;
+    padding: 10px 30px;
+	border-top:10px;
+
+	text-shadow: 0 -1px 1px #333333;
+	white-space: nowrap;
+}
+#menu {
+    margin-bottom: 21px;
+}
+#accueil1 a {
+ text-decoration:none;
+ color: black;
+}
+#accueil
+{
+	float:left;
+	width:30px;
+	height:30px;
+	
+}
+
+dt img a {
+ text-decoration:none;
+ color: black;
+}
+dl {
+	margin:0;
+	padding:0;
+	display:block;
+	float:left;
+	width:165px;
+	
+		
+}
+dd
+{
+	display:block;
+	margin:0;
+	padding:0;
+}
+#menu ul {
+	position: absolute;
+    background-color: #DAA520;
+    list-style: none ;
+	text-align:center;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+#menu li {
+	position: relative;
+    border-left: 1px solid #AD4F09;
+    border-right: 1px solid #AD4F09;
+}
+#menu li a {
+	background-color:#DAA520;
+    color: black;
+    display: block;
+    font-size: 12px;
+    padding: 17px 24px;
+    text-decoration: none;
+}
+dt {
+	background-color:#DAA520;
+    color: black;
+    display: block;
+    font-size: 12px;
+    padding: 17px 24px;
+    text-decoration: none;
+}
+#menu dt:hover {
+	   background-color:#DAA520;
+ 	   color: #FFFFFF;;
+}
+dl dd {
+	display:none;
+	
+}
+dl:hover dd{
+		display:block;
+}
+#safari{
+	float:left;
+	width:30px;
+	height:30px;
+	
+}
+#avion {
+	float:left;
+	width:30px;
+	height:30px;
+	
+}
+#livre
+{
+	float:left;
+	width:30px;
+	height:30px;
+}
+#photo1  {
+	   padding-left:0em;
+	   padding-top:25px;
+	   width:1400px;
+	   height;400px;
+	
+}
+#principal {
+    padding-bottom: 60px;
+}
+#principal-titre {
+    color:#DAA520;
+    font-family: 'Magra',sans-serif;
+    font-size: 55px;
+    font-weight: 200;
+  
+    line-height: 110%;
+    margin-bottom: 30px;
+    margin-top: 53px;
+    text-align: center;
+}
+#principal-titre span {
+    color: #DAA520;
+}
+#boites {
+    display: block;
+ 
+	 }
+.boite {
+    margin-left:140px;
+    width: 400px;
+    color:black;
+}
+
+img.boite
+{
+	width:900px;
+	padding-left:10px;
+	 color:black;
+}
+
+
+img.boite
+{
+	width:900px;
+	padding-left:10px;
+	 color:black;
+}
+
+
+#paragraphe1 {
+color:#DAA520;
+	font-size:30px;
+}
+#details {
+    background-image: url("images/footer-wrapper-bg.jpg");
+
+    padding-bottom: 70px;
+    padding-top: 40px;
+	color:DAA520;
+}
+#details-centre {
+    display: flex;
+    justify-content: space-between;
+}
+.details-col-articles {
+    width: 282px;
+	margin-left:0px;
+	margin-right:0px;
+		padding-bottom:100px;
+}
+#details h3 {
+    font-size: 30px;
+    font-weight: normal;
+    letter-spacing: -1px;
+    margin-bottom: 1.2em;
+}
+#details  li img{
+	padding-left:0px;
+	padding-right:0px;
+	margin-left:0px;
+	margin-right:0px;
+}
+.details-col-articles h3{
+    color: #DAA520;
+}
+.centrer {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 1155px;
+		background-image:url("http://fr.freepik.com/photos-libre/vieux-papier-beige_33619.htm");
+}
+
+.article-list {
+    list-style: none outside none;
+    padding: 0;
+}
+.article-list li {
+    color:DAA520;
+    line-height: 200%;
+    margin-bottom: 12px;
+    overflow: hidden;
+    padding-bottom: 30px;
+	
+		
+    font-size:25px;
+}
+
+
+.article-list li:last-child {
+ 
+}
+.article-list img {
+    float: left;
+    margin-right:0px;
+			
+}
+
+.article-auteur {
+    color:DAA520;
+    margin-bottom: 0px;
+    margin-top: 8px;
+    font-size:30px;
+    padding-left:0px;
+		
+				
+}
+#lion {
+width:300px;
+height:320px;
+padding-left:20px;
+}
+
+#tigre
+{
+	width:300px;
+	height:320px;
+}	
+#girafe{
+width:300px;
+height:320px;
+	padding-bottom:100px;
+	padding-left:20px;
+}
+#sable {
+	width:300px;
+	height:100px;
+}	
+#zebre2{
+				padding-left:100px;
+				
+}
+#bas-de-page {
+	margin-top:7em;
+    background-image: url("http://i2.cdscdn.com/pdt2/3/0/1/1/300x300/dul3031520130301/rw/peinture-creme-de-couleur-2-5-l-grain-de-sable.jpg");
+
+	}
+#bas-de-page-centre {
+    color: #555555;
+    padding: 40px;
+    text-align: center;
+}
+#bas-de-page a {
+    color: #555555;
+	
+}
+body {
+    color: #DAA520;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    margin: 0;
+	/*background:#111111;*/
+	background-image:url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3hEEu7Q1wTEG98na4oWJoaQPU9cHpG2CnRBoFVWVqpUchim9-9w")
+	
+}
+section, nav, article, aside, header, footer, main {
+    display: block;
+}
+
+
+a img {
+    border: medium none;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

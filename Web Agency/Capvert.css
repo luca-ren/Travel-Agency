@@ -1,0 +1,185 @@
+body {
+    color: #black;
+    font-family: Arial;
+    font-size: 17px;
+    margin: 0;
+}
+
+#accueil a {
+	text-decoration:none;
+	color: black;
+}
+#accueil {
+	    text-align:center;
+}
+#liens {
+	position:absolute;
+	top:10px;
+	right:10px;
+}
+#logo {
+	position:absolute;
+	left:10px;
+}
+.centrer {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    width: 1155px;
+}
+
+#entete {
+    background-image: url("http://www.running-attitude.com/img/bdd/actu/originale/423.jpg");
+	background-size: cover;
+    color: #FFFFFF;
+}
+
+#titre {
+	color:#E0CDA9;
+	padding-left: 20em;
+    padding-bottom: 28px;
+    padding-top: 17px;
+}
+#titre h1 {
+    display: inline;
+    font-family: 'Lobster',cursive;
+    font-size: 72px;
+    font-weight: normal;
+}
+
+#menu {
+    margin-bottom: 21px;
+}
+dl {
+	margin:0;
+	padding:0;
+	display:block;
+	float:left;
+	width:165px;
+	
+		
+}
+dd
+{
+	display:block;
+	margin:0;
+	padding:0;
+}
+#menu ul {
+	position: absolute;
+    background-color: #CC5500;
+    list-style: none ;
+	text-align:center;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+#menu li {
+	position: relative;
+    border-left: 1px solid #AD4F09;
+    border-right: 1px solid #AD4F09;
+}
+#menu li a {
+	background-color:#F88E55;
+    color: black;
+    display: block;
+    font-size: 12px;
+    padding: 17px 24px;
+    text-decoration: none;
+}
+dt {
+	background-color:#F88E55;
+    color: black;
+    display: block;
+    font-size: 12px;
+    padding: 17px 24px;
+    text-decoration: none;
+}
+#menu dt a:hover {
+	   background-color:#F88E55;
+ 	   color: #FFFFFF;;
+}	   
+#menu dt:hover {
+	   background-color:#F88E55;
+ 	   color: #FFFFFF;;
+}
+dl dd {
+	display:none;
+	
+}
+dl:hover dd{
+		display:block;
+}
+#illustration-haut {
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 20px 0;
+    text-align: center;
+}
+#principal {
+    padding-bottom: 60px;
+}
+#principal-titre {
+    color: #393939;
+    font-size: 32px;
+    font-weight: 300;
+    letter-spacing: -3px;
+    line-height: 110%;
+    margin-bottom: 30px;
+    margin-top: 53px;
+    text-align: center;
+}
+#principal-titre span {
+    color: #000000;
+	font-size:48px;
+}
+#boites {
+    display: flex;
+    justify-content: space-between;
+}
+.boite {
+    line-height: 200%;
+    width: 384px;
+}
+.boite p a{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-family: Arial;
+}
+.boite img {
+	position:relative;
+	padding-bottom: 10px;
+}
+.boite #type-boite {
+	color:#4169E1;
+	font-weight:bold;
+	font-size: 25px;
+}
+.boite #destination-boite{
+	color:#32CD32;
+	font-style:italic;
+	font-size: 20px;
+}
+.principal-ligne-bouton {
+    margin-top: 30px;
+}
+.gros-bouton {
+	position:absolute	;
+    background-color: grey;
+    border: 1px solid black;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    font-size: 17px;
+    padding: 10px 30px;
+}
+#bas-de-page {
+    background-image: url("http://i2.cdscdn.com/pdt2/3/0/1/1/300x300/dul3031520130301/rw/peinture-creme-de-couleur-2-5-l-grain-de-sable.jpg");
+}
+#bas-de-page-centre {
+    color: #555555;
+    padding: 40px;
+    text-align: center;
+}
+#bas-de-page a {
+    color: #555555;
+}
+
